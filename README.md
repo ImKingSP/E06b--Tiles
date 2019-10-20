@@ -1,0 +1,1 @@
+This completes the assignment for E06b-Tiles partially.  I am having trouble understanding why the character keeps falling through the map.
